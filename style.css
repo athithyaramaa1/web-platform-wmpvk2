@@ -1,0 +1,13 @@
+/* Properties which are inherited by the child element*/
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: darkred;
+  font-weight: 600;
+  
+}
+/* Properties which are not inherited by the child element */
+body{
+  margin: 10px;
+  padding: 50px;
+  border: 100px;
+}
